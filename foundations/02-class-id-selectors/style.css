@@ -1,15 +1,15 @@
 .impar {
-  background-colo: #00F;
+  background-color: #f00;
   font-family: "Verdana DejaVu Sans" Sans-serif;
 }
 #one{
-  color: #0f0;
+  color: #f00;
   font-size: 36px;
 }
-unico{
+#unico{
   font-size: 24px;
   font-weight: 700;
-  background-color: #f00;
+  background-color: #0f0;
 }
 .impar#font {
   font-size: 24px;
