@@ -23,6 +23,17 @@ img {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    flex-wrap: wrap;
+  }
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 16px;
+    width: 200px;
+    flex: 1 1 auto;
   }
 /* do not edit this footer */
 .footer {
