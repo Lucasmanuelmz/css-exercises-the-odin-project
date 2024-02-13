@@ -1,0 +1,11 @@
+.fundo.branco{
+  background-color: #000;
+  color: #fff;
+}
+.fundo.amarelo{
+  background-color: yellow;
+}
+.fundo{
+  font-size: 28px;
+  font-family: "Helvetica Times New Roman" sans-serif;
+}

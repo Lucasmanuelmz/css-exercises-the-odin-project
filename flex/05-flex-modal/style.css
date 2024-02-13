@@ -67,3 +67,32 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+/* my solution for exersises*/
+
+.flex-header {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0%;
+}
+
+.flex-button {
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+}
+
+.header {
+    font-size: 22px;
+    font-weight: 800;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.modal {
+    display: flex;
+    flex-direction: row;
+    padding: 16px;
+    gap: 20px;
+}
